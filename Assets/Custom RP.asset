@@ -10,5 +10,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: da1beced46e0a47e793b12aa9afbab69, type: 3}
-  m_Name: My Pipeline Asset
+  m_Name: Custom RP
   m_EditorClassIdentifier: 
